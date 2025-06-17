@@ -1,3 +1,6 @@
+## FundME
+**This is a Funding Contract which can be used to collect funds**
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
