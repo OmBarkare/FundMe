@@ -12,3 +12,5 @@ docs/
 
 # Dotenv file
 .env
+
+/broadcast/Interactions.s.sol
