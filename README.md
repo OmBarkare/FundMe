@@ -1,5 +1,30 @@
-## FundME
+# FundME
 **This is a Funding Contract which can be used to collect funds**
+**Dont use this for getting real funds, this is not audited, this was created only for learning purpose**
+
+## Quick Start
+```bash
+git clone https://github.com/OmBarkare/FundMe
+cd FundMe
+```
+**if ssh key is setup, you can use**
+```bash
+git clone git@github.com:OmBarkare/FundMe.git
+cd FundMe
+```
+
+## Tools used:
+-    Foundry
+
+### Here is how to install foundry:
+```bash
+curl -L https://foundry.paradigm.xyz | bash
+```
+This will install foundryup, follow the instructions and run
+```bash
+foundryup
+```
+This will install Forge, Cast, Anvil and Chisel.
 
 ## Foundry
 
